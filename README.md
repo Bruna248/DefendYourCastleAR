@@ -1,17 +1,8 @@
 # Defend Your Castle AR 🏰📱
-
-<img class="mobile-image" src="./Assets/DYC1.png" width="200" /> 
-<img class="mobile-image" src="./Assets/DYC2.png" width="200" />
-
-<style>
-  .img {
-    display: inline-block;
-  }
-  img.mobile-image {
-    width: 49%;
-    display: inline-block;
-  }
-</style>
+<p>
+  <img src="./Assets/DYC1.png" width="200" /> 
+  <img src="./Assets/DYC2.png" width="200" />
+</p>
 
 ## Overview 🌐
 
