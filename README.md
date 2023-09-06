@@ -1,6 +1,6 @@
 # Defend Your Castle AR 🏰📱
 
-![Defend Your Castle AR Banner](./Assets/dyc.jpg) <!-- You can replace 'path-to-banner-image.jpg' with the path to an actual banner image for your game -->
+![Defend Your Castle AR Banner](./Assets/DYC2.png) <!-- You can replace 'path-to-banner-image.jpg' with the path to an actual banner image for your game -->
 
 ## Overview 🌐
 
