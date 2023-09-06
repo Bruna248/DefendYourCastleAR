@@ -1,7 +1,7 @@
 # Defend Your Castle AR 🏰📱
 
-![Defend Your Castle AR Banner](./Assets/DYC1.png) 
-![Defend Your Castle AR Banner](./Assets/DYC2.png) 
+<img src="./Assets/DYC1.png" width="200" />
+<img src="./Assets/DYC2.png" width="200" />
 
 ## Overview 🌐
 
