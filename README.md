@@ -1,22 +1,31 @@
-# Defend Your Castle AR 🏰📱
+# 🏰 DefendYourCastleAR 🏹
+
 <p align="center">
   <img src="./Assets/DYC1.png" width="200" /> 
   <img src="./Assets/DYC2.png" width="200" />
 </p>
 
-## Overview 🌐
+**DefendYourCastleAR** is an immersive multiplayer game that leverages the power of Augmented Reality (AR) to bring castle-building and cannon-battling to life. Dive into a world where strategy meets AR interaction, and challenge your friends to epic battles!
 
-With the rapid advancements in mobile technology and the rise of sophisticated communication infrastructures, **Mobile Augmented Reality (RAM)** applications have become a sensation. Coupled with the concept of "gamification", which aims to instill sustainable habits in individuals and communities, the stage was set for the birth of **Defend Your Castle AR**.
+## 🎮 Features
 
-## About the Game 🎮
+- **Multiplayer Battles**: Engage in intense 1v1 battles with players from around the world.
+- **AR-Enabled Gameplay**: Build your castle, place cannons, and launch attacks in augmented reality.
+- **Strategic Gameplay**: Make crucial decisions on construction and tactics to outsmart your opponent.
+- **Designed in Unity**: Experience smooth gameplay powered by Unity ( C# ).
+- **Stunning Game Objects**: Dive into a visually appealing world with objects designed in Blender.
 
-**Defend Your Castle AR** is a competitive multiplayer Mobile Augmented Reality (RAM) game designed for both entertainment and fostering communication. Inspired by the classic 1990 game, *Rampart*, this game revives the age-old thrill of building and defending castles. But this time, it's not just on a 2D screen - it's in augmented reality!
+## 🌐 The Evolution of Gaming
 
-### Gameplay 🕹
+The power of "gamification" has transformed various domains, from physical exercise to education. With a deeper understanding of gaming culture and player behaviors, gaming has become an integral part of modern entertainment. The rise of Augmented Reality (AR) and Mobile Augmented Reality (MAR) applications has further revolutionized the gaming landscape.
 
-- **Build Your Castle**: Erect formidable walls and towers to defend your kingdom.
-- **Destroy the Enemy**: Use your cannons to bring down the enemy's castle.
-- **Victory**: The player who razes the enemy castle to the ground emerges victorious!
+## 📱 Mobile Augmented Reality (MAR)
+
+Thanks to advancements in mobile technology and communication infrastructures, MAR applications have shown immense promise. They not only offer immersive experiences but also encourage physical activity and reduce sedentary behavior.
+
+## 🤝 Collaboration in AR
+
+Our game promotes a cooperative gaming experience, emphasizing collaboration, common rules, and effective communication channels. Whether players are co-located or geographically dispersed, **DefendYourCastleAR** offers a seamless multiplayer experience.
 
 ## Technology Stack 🛠
 
@@ -27,13 +36,20 @@ With the rapid advancements in mobile technology and the rise of sophisticated c
 
 Post-development tests revealed that users found the **Defend Your Castle AR** experience to be highly satisfactory. Even those unfamiliar with mobile augmented reality found the gameplay intriguing and innovative on a mobile platform.
 
-## Get Started 🚀
+## 🚀 Getting Started
 
-1. Clone the repository: `git clone https://github.com/Bruna248/DefendYourCastleAR.git`
-2. Open the project in Unity.
-3. Build and run on your preferred mobile device.
-4. Dive into the AR world of castles and cannons!
+1. **Clone the Repository**
+   ```bash
+   git clone https://github.com/Bruna248/DefendYourCastleAR.git
+   ```
 
----
+2. **Open in Unity**
+   - Navigate to the project directory.
+   - Open the project using Unity.
 
-Developed with ❤️ by Bruna Leitão & Carlos Costa
+3. **Play and Enjoy!**
+
+## 🤖 Contributors
+Developed with ❤️ by:
+- Bruna Leitão [(Bruna's GitHub Profile Link)](https://github.com/Bruna248)
+- Carlos Costa [(Contributor GitHub Profile Link)](https://github.com/CcostaX)
