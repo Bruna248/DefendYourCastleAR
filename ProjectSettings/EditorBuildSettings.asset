@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Home.unity
+    guid: e1b228b38f5f49c42b0f42f48849df7c
+  - enabled: 1
+    path: Assets/Scenes/CreativeMode.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Room.unity
+    guid: a77baef668aee9f4bbe397d056b4cf9d
+  - enabled: 1
+    path: Assets/Scenes/PlayMode.unity
+    guid: f165c1f605751234480b27982ce6e8f2
+  - enabled: 1
+    path: Assets/Scenes/LoadingScreen.unity
+    guid: dc37d4a8a6b77cc409e5d296bc9a1370
+  - enabled: 1
+    path: Assets/ExampleAssets/Scenes/SampleScene.unity
+    guid: 7d743cadfc4490341b4e2c5bd8911f2a
+  - enabled: 1
+    path: Assets/Scenes/Tutorial.unity
+    guid: 942d5ccc08e87fc4b931385a33083700
+  m_configObjects:
+    Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: 744b813df90924c169af73489b8325de,
+      type: 2}
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 3acfb4cbc305c5e488a68e16f0e8db6e,
+      type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: de8a8e4f987434338a4b1062feb8d069,
+      type: 2}
+    com.unity.xr.arcore.PlayerSettings: {fileID: 11400000, guid: c2f7b8d7c0bff4d10874cbcf3f24af78,
+      type: 2}
+    com.unity.xr.arkit.PlayerSettings: {fileID: 11400000, guid: b27ec7d82a91a48e69fd689ad6808e5e,
+      type: 2}
+    com.unity.xr.magicleap.magic_leap_settings: {fileID: 11400000, guid: 1eb95d77acb39444e8cf44313496a874,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 58f40b12bbc864f3c96c6505a9a1e1e3,
+      type: 2}
