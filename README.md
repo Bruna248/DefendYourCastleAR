@@ -1,5 +1,5 @@
 # Defend Your Castle AR 🏰📱
-<p float="center">
+<p align="center">
   <img src="./Assets/DYC1.png" width="200" /> 
   <img src="./Assets/DYC2.png" width="200" />
 </p>
